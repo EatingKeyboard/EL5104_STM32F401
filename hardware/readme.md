@@ -1,2 +1,2 @@
-# designed by LCEDA
+# Designed by LCEDA
 GaAs_ZYH
